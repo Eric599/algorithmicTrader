@@ -8,6 +8,6 @@ My first prototype attempt will aim to measure if a company is profitable long t
 
 Eventually, I would like to give the user a choice to pick if they are looking for a short term or long term investment.
 
-To start I will focus on one company, Apple. Once I am confident with my work on Apple, I would like to develop a user interface where a user can input any publicly traded company and in return receive an analysis based purely on numbers calculated through the yfinance library.
+To start I will focus on one company, Apple. Once I am confident with my work on Apple, I would like to develop a user interface where a user can input any publicly traded company and in return receive an analysis based purely on numbers calculated through the yfinance library. Feel free to refer to the wiki to see how I determine a company's value.
 
 This project will use Python.
